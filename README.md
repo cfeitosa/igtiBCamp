@@ -1,2 +1,3 @@
-# wscicd
-Workshop CiCd
+# README Teste
+
+Arquivo de configuração para o teste de pipeline.
